@@ -5,9 +5,9 @@
 Greetings! I'm Sean Pearce, a fervent explorer at the intersection of Computer Graphics and Artificial Intelligence, driven by a singular goal: to leverage the fusion of these dynamic fields to create impactful solutions that enrich people's lives. With a passion for pushing the boundaries of technology, I immerse myself in the realms of rendering, visualization, and machine learning algorithms, constantly seeking innovative ways to blend artistry with intelligence. Join me on my GitHub journey, where each line of code is a step towards shaping a future where captivating visuals and intelligent systems converge to make a tangible difference in our world.
 
  <a href="https://github.com/Spear9722?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/spear97?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Spear9722?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
   <a href="https://github.com/Spear9722?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/spear97?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Spear9722?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
 
 ---
